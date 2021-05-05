@@ -2,7 +2,7 @@
 
 This is a github repository for the Internet Storm Center (ISC) May 2021 Forensic Contest.
 
-The context located here: https://isc.sans.edu/forums/diary/May+2021+Forensic+Contest/27386/
+The contest located here: https://isc.sans.edu/forums/diary/May+2021+Forensic+Contest/27386/
 
 Password for the zip archive in this repository is: infected
 
